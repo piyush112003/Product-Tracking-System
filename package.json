@@ -1,0 +1,14 @@
+{
+  "name": "product-tracking-system",
+  "version": "1.0.0",
+  "description": "Contains all the files of the project Product Tracking System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
